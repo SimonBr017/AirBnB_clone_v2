@@ -1,1 +1,2 @@
-This directory implements webpage design.
+HTML code for Web static AirBnB clone
+Holberton School project
