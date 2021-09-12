@@ -6,6 +6,6 @@ footer {
     line-height: 60px;
     display: flex;
     justify-content: center;
-    position: absolute;
+    position: relative;
     bottom: 0px;
 }
